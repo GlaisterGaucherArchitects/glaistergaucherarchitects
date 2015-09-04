@@ -239,7 +239,7 @@ h5, h6          { font-weight: bolder }
     width: 40px;
     height: 40px;
     cursor: pointer;
-    background: url('../img/men_icons.png') no-repeat;
+    background: url('../img/00-general/men_icons.png') no-repeat;
 }
 
 #menu_icon{    
@@ -367,7 +367,7 @@ h5, h6          { font-weight: bolder }
     display: block;
     width: 40px;
     height: 40px;
-    background: url('../img/p_navigation.png') no-repeat;
+    background: url('../img/00-general/p_navigation.png') no-repeat;
     background-position: 0 0;
 }
 
